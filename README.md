@@ -1,4 +1,5 @@
 <div align="center" width="500px" style="width:500px"> 
+<img src="weiss_schwarz_ball.avif" style="width: 200px; height: auto;"></img>
  
 Status: `live` @ [GitBook](https://www.youtube.com/watch?v=xvFZjo5PgG0&pp=0gcJCdgAo7VqN5tD)
 
