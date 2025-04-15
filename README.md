@@ -1,8 +1,6 @@
 <div align="center" width="500px" style="width:500px"> 
-
-<img src="ui/assets/img/vch-logo.png" style="width: 200px; height: auto;"></img>
-
-Status: `live` @ [GitBook]([https://vch.li](https://www.youtube.com/watch?v=xvFZjo5PgG0&pp=0gcJCdgAo7VqN5tD))
+ 
+Status: `live` @ [GitBook](https://www.youtube.com/watch?v=xvFZjo5PgG0&pp=0gcJCdgAo7VqN5tD)
 
 
 Developed by:
