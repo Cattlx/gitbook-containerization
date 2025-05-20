@@ -1,7 +1,3 @@
----
-description: Einführung in Docker
----
-
 # Einführung
 
 ### **GitBook: Containerization mit Docker**
