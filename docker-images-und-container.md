@@ -1,8 +1,8 @@
+---
+description: Images und Container
+---
+
 # Docker Images und Container
-
-#### 3. **Docker Images und Container**
-
-**Link zur Seite:** `03-docker-images-und-container.md`
 
 **Inhalt der Seite:**
 

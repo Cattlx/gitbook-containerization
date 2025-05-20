@@ -1,7 +1,6 @@
 # Table of contents
 
-* [README](README.md)
-* [Einführung](einfuhrung.md)
+* [Einführung](README.md)
 * [Docker Grundlagen](docker-grundlagen.md)
 * [Docker Images und Container](docker-images-und-container.md)
 * [Docker Images erstellen und verwalten](docker-images-erstellen-und-verwalten.md)

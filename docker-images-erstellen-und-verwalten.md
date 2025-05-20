@@ -1,8 +1,8 @@
+---
+description: Images verwalten
+---
+
 # Docker Images erstellen und verwalten
-
-#### 4. **Docker-Images erstellen und verwalten**
-
-**Link zur Seite:** `04-docker-images-erstellen-und-verwalten.md`
 
 **Inhalt der Seite:**
 

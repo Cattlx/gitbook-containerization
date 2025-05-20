@@ -1,8 +1,8 @@
+---
+description: Die Grundlagen von Docker
+---
+
 # Docker Grundlagen
-
-#### 2. **Docker Grundlagen**
-
-**Link zur Seite:** `02-docker-grundlagen.md`
 
 **Inhalt der Seite:**
 

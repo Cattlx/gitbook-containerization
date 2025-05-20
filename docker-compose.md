@@ -1,8 +1,8 @@
+---
+description: Docker Compose
+---
+
 # Docker Compose
-
-#### 6. **Docker Compose**
-
-**Link zur Seite:** `06-docker-compose.md`
 
 **Inhalt der Seite:**
 

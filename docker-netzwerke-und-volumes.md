@@ -1,8 +1,8 @@
+---
+description: Netwerke und Volumes
+---
+
 # Docker Netzwerke und volumes
-
-#### 5. **Docker-Netzwerke und Volumes**
-
-**Link zur Seite:** `05-docker-netzwerke-und-volumes.md`
 
 **Inhalt der Seite:**
 
