@@ -1,3 +1,1 @@
-Flurin Manella
-Rupperswil 5102
-Schweizerstrasse 30c
+Wir sind super motiviert
