@@ -25,4 +25,4 @@
   * **Docker als Standard für Containerisierung:** Warum Docker als Container-Orchestrierungstechnologie weltweit führend ist.
   * **Docker Community:** Open-Source-Projekt mit einer riesigen Community und kontinuierlicher Weiterentwicklung.
   * **Unterstützung von Container-Orchestrierung:** Docker Swarm und Kubernetes als populäre Lösungen zur Verwaltung von Containern.
-s
+
